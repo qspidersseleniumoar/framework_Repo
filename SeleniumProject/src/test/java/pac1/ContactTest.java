@@ -22,4 +22,8 @@ public class ContactTest {
 	public void modifycontactTest() {
 		System.out.println("execute modifycontactTest");
 	}
+	@Test
+	public void deleteontactTest() {
+		System.out.println("execute deleteontactTest");
+	}
 }
